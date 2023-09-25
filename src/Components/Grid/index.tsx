@@ -5,7 +5,7 @@ const Grid = () => {
 
  const data = [
     {
-     title: "Recommend a ",
+     title: "Recommend a dish",
      description: "to impress a date who's a picky eater"
  },
     {
